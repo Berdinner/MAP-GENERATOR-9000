@@ -4,6 +4,8 @@ DATE: 2022
 HOW TO START THIS PROJECT: Install BlueJ, open the folder in BlueJ, right-click main and press "new Main()"
 AUTHOR: BAXTER BERDINNER
 
+To view full version history and list of commits, visit my old GitHub repository: https://github.com/berdiba/CSC223-2022-Berdiba
+
 "MAP GENERATOR 9000" is a project which lets the user generate and interact with a 2d array of characters that make up a map. 
 The map is made complety out of ASCII text, meaning it can be copied and pasted anywhere the user wants. 
 The map also has an export feature, where the map will be turned into an image with a variaty of avalable styles to choose from.
